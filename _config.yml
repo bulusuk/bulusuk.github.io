@@ -97,10 +97,10 @@ paginate_path:         /blog/:num/
 # ---------------------------------------------------------------------------------------
 
 # This will use the gem `jekyll-theme-hydejack`, as defined in the sibling `Gemfile`.
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
+# plugins:
+#   - jekyll-remote-theme
 
 
 # You can uncomment `theme` above and replace it with `remote_theme` here iff you are using the 

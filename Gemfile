@@ -10,11 +10,11 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.3"
 
-# gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
+gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 
-group :jekyll_plugins do
-  gem "jekyll-remote-theme"
-end
+# group :jekyll_plugins do
+#   gem "jekyll-remote-theme"
+# end
 
 # If you are part of the ["Customers" team](https://github.com/orgs/hydecorp/teams/pro-customers), 
 # you can fetch the theme from a private repository. 
