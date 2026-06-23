@@ -15,6 +15,8 @@ Several researchers ranging from post doctoral scientists to high school student
 
 **Information about current and former particpants will be updated soon..**
 
+<a href="https://www.linkedin.com/in/kartik-bulusu-1295261/?skipRedirect=true" target="_blank" rel="noopener noreferrer"><strong>See my LinkedIn page</strong></a> for all my current news and professional updates while I make steady improvements to my webpage.
+
 <!-- My work demonstrates the richness in the **dynamics of biological flows**, particularly within the cardiovascular system through **laser-based diagnostics**, **wavelet transforms**, and **theoretical fluid mechanics**, while simultaneously **advancing ubiquitous computing** through **IoT, edge intelligence, and deep learning**. <br clear="left"/>
 
 **`"A conviction that engineering must serve society shapes everything we do, from the laboratory and the classroom, to everything beyond."`** -->

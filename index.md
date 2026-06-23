@@ -19,8 +19,7 @@ Simultaneously, I am working on **advancing ubiquitous computing** through **IoT
 
 Many moons ago, I worked on the a mechanical device known as the **ejector, involving supersonic jets** using **Schlieren photography** and **laser-based diagnostics**.<br clear="left"/>
 
-
-
+<a href="https://www.linkedin.com/in/kartik-bulusu-1295261/?skipRedirect=true" target="_blank" rel="noopener noreferrer"><strong>See my LinkedIn page</strong></a> for all my current news and professional updates while I make steady improvements to my webpage.
 
 <!-- Thank you for buying the PRO version of Hydejack! 🎉 -->
 <!-- 

@@ -21,20 +21,27 @@ There's always work to be done in my wheelhouse!
   <button type="submit">Send</button>
 </form> -->
 
+<!-- <form action="https://formspree.io/f/mzdqlgzp" method="POST" class="contact-form" style="color: black;"> -->
+<!-- <input type="text" name="name" id="name" required style="color: black !important; background-color: white !important;">
+    </div> -->
+
 <div class="contact-form-wrapper">
-  <form action="https://formspree.io/f/mzdqlgzp" method="POST" class="contact-form">
+  <form action="https://formspree.io/f/mzdqlgzp" method="POST" class="contact-form" style="color: black;">
     <div class="form-field">
       <label for="name">Name</label>
-      <input type="text" name="name" id="name" required>
+      <!-- <input type="text" name="name" id="name" required> -->
+      <input type="text" name="name" id="name" required style="color: black !important; background-color: white !important;">      
     </div>
     <div class="form-field">
       <label for="email">Email</label>
       <input type="email" name="email" id="email" required>
-      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>      
+      <!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>    -->
+      <small id="emailHelp" class="form-text text-muted" required style="color: black !important; background-color: white !important;">We'll never share your email with anyone else.</small>         
     </div>
     <div class="form-field">
       <label for="message">Message</label>
-      <textarea name="message" id="message" rows="5" required></textarea>
+      <!-- <textarea name="message" id="message" rows="5" required></textarea> -->
+      <textarea name="message" id="message" rows="5" required style="color: black !important; background-color: white !important;"></textarea>      
     </div>
 
     <button type="submit">Send Message</button>
